@@ -33,8 +33,7 @@ education:
 #    institution: Stanford University
 #    year: 2012
   - course: Msc in Ecology
-    institution: Institute of Urban Environment
-	Chinese Academy of Sciences
+    institution: Institute of Urban Environment, Chinese Academy of Sciences
     year: 2021
   - course: BSc in Information Engineering 
     institution: Huaqiao University

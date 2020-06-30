@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Xiamen, China"
   date_start = "2019-07-31"
-  date_end = "2021-07-01"
+  date_end = ""
   description = """Last two years of master's degree. Conducting research, publishing papers and finishing master thesis"""
 
 [[experience]]

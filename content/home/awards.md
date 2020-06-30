@@ -46,4 +46,5 @@ subtitle = ""
  css_class = ""
 +++
 
-* Excellent Student in 2019-2020 semester !
+* Merit Student in 2019-2020 semester !
+

@@ -32,7 +32,7 @@ education:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
-  - course: Msc in Ecology
+  - course: MSc in Ecology
     institution: Institute of Urban Environment, Chinese Academy of Sciences
     year: 2021
   - course: BSc in Information Engineering 

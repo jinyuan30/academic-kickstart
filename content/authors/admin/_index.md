@@ -73,3 +73,7 @@ user_groups:
 ---
 
 I'm a master student majored in Ecology at IUE (Institute of Urban Environment, Chinese Academy of Sciences), Xiamen, where I study and work on urban ecology, deep learning, remote sensing, etc. Before that, I did my bachelor thesis at SCSC lab supervised by Prof. Cheng Wang at Xiamen University. 
+
+
+
+Contact me: jyshao@iue.ac.cn

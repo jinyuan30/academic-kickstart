@@ -14,7 +14,7 @@ role: Master Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chinese of Academy of Sciences<br>Institute of Urban Environment, Chinese Academy of Sciences
+- name: UCAS&IUE
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

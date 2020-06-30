@@ -35,7 +35,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -75,4 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
-* Bachelor Thesis: Extracting trees from urban roads via Lidar using pointnet.
+* Bachelor Thesis: Extracting trees from urban roads via point cloud using pointnet.

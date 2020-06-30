@@ -33,7 +33,7 @@ education:
 #    institution: Stanford University
 #    year: 2012
   - course: Msc in Ecology
-    institution: Institute of Urban Environment,  Chinese Academy of Sciences
+    institution: Institute of Urban Environment, Chinese Academy of Sciences
     year: 2021
   - course: BSc in Information Engineering 
     institution: Huaqiao University
@@ -47,9 +47,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: twitter
+# icon_pack: fab
+# link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a master student majored in Ecology at IUE(Institute of Urban Environment, Chinese Academy of Sciences), Xiamen, where I study and work on urban ecology, deep learning, remote sensing, etc. Before that, I did my bachelor thesis at SCSC supervised by Cheng Wang. Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

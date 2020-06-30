@@ -26,11 +26,11 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
+
   * Analysing
   * Modelling
   * Deploying
-  """
+    """
 
 [[experience]]
   title = "Professor"
@@ -40,5 +40,14 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Bachlor Student"
+  company = "Huaqiao University"
+  company_url = ""
+  location = "California"
+  date_start = "2014-09-22"
+  date_end = "2018-07-01"
+  description = """Got bachelor degree of communication engineering(information engineering)."""
 
 +++

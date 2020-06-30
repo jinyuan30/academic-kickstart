@@ -72,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a master student majored in Ecology at IUE (Institute of Urban Environment, Chinese Academy of Sciences), Xiamen, where I study and work on urban ecology, deep learning, remote sensing, etc. Before that, I did my bachelor thesis at SCSC supervised by Cheng Wang. Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm a master student majored in Ecology at IUE (Institute of Urban Environment, Chinese Academy of Sciences), Xiamen, where I study and work on urban ecology, deep learning, remote sensing, etc. Before that, I did my bachelor thesis at SCSC lab supervised by Prof. Cheng Wang at Xiamen University. 

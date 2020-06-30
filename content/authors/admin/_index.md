@@ -63,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jyshao@iue.ac.cn"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -76,4 +76,4 @@ I'm a master student majored in Ecology at IUE (Institute of Urban Environment, 
 
 
 
-Contact me: jyshao@iue.ac.cn
+Contact me: jyshao at iue dot ac dot cn

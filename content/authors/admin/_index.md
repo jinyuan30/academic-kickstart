@@ -32,10 +32,11 @@ education:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Institute of Urban Environment, Chinese Academy of Sciences
+  - course: Msc in Ecology
+    institution: Institute of Urban Environment
+	Chinese Academy of Sciences
     year: 2021
-  - course: BSc in Information Engineering(Communication Engineering) 
+  - course: BSc in Information Engineering 
     institution: Huaqiao University
     year: 2018
 
@@ -55,7 +56,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jinyuan30
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

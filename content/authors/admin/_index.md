@@ -21,10 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Urban Ecology
 - Remote Sensing
-- Image Processing
 - Deep Learning
+- Urban Ecology
 - Geoscience
 
 education:

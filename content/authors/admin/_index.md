@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jinyuan Shap
+title: Jinyuan Shao
 
 # Username (this should match the folder name)
 authors:
@@ -15,7 +15,7 @@ role: Master Student
 # Organizations/Affiliations
 organizations:
 - name: Institute of Urban Environment, Chinese Academy of Sciences
-  url: "http://www.iue.cas.cn/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

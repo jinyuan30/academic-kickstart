@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a master student majored in Ecology at IUE (Institute of Urban Environment, Chinese Academy of Sciences), Xiamen, where I study and work on urban ecology, deep learning, remote sensing, etc. Before that, I did my bachelor thesis at SCSC lab supervised by Prof. Cheng Wang at Xiamen University. 
+I'm a master student majored in Ecology at UCAS(University of Chinese Academy of Sciences) and IUE(Institute of Urban Environment, Chinese Academy of Sciences), where I study and work on urban ecology, deep learning, remote sensing, etc. I am supervised by Dr. Quanyi Qiu and Prof. Lina Tang. By studying artificial intelligence and remote sensing technology, I hope I can solve urban ecological problems and contribute to human society.
 
 
 

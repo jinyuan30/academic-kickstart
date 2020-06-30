@@ -41,7 +41,7 @@ subtitle = ""
 
 
 
-  view = 2
+  view = 4
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -69,4 +69,5 @@ subtitle = ""
 
  # CSS class.
  css_class = ""
+
 +++

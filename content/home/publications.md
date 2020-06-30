@@ -41,7 +41,7 @@ subtitle = ""
 
 
 
-  view = 4
+  view = 3
 
 [design.background]
   # Apply a background color, gradient, or image.

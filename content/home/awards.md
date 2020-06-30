@@ -3,7 +3,7 @@
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "awards"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
@@ -11,7 +11,6 @@ weight = 80  # Order that this section will appear.
 title = "Awards"
 subtitle = ""
 
-[design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 

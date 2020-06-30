@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Xiamen, China"
   date_start = "2019-07-31"
   date_end = ""
-  description = """Last two years of master's degree. Conducting research, publishing papers and finishing master thesis"""
+  description = """Last two years of master's degree. Conducting research, publishing papers and finishing master thesis."""
 
 [[experience]]
   title = "Master Student"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2018-09-01"
   date_end = "2019-07-01"
-  description = """First year of master's degree."""
+  description = """First year of master's degree. Attending classes and taking credits."""
 
 [[experience]]
   title = "Undergraduate"

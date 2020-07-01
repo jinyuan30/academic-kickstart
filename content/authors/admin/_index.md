@@ -1,6 +1,6 @@
 ---
 # Display name
-title: JinYuan Shao
+title: Jinyuan Shao
 
 # Username (this should match the folder name)
 authors:
@@ -33,10 +33,10 @@ education:
 #    year: 2012
   - course: MSc in Ecology
     institution: Institute of Urban Environment, Chinese Academy of Sciences
-    year: 2021
+    year: Jul 2021
   - course: BSc in Information Engineering 
-    institution: Huaqiao University
-    year: 2018
+    institution: College of Engineering, Huaqiao University
+    year: Jul 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a master student majored in Ecology at UCAS(University of Chinese Academy of Sciences) and IUE(Institute of Urban Environment, Chinese Academy of Sciences), where I study and work on urban ecology, deep learning, remote sensing, etc. I am supervised by Dr. Quanyi Qiu and Prof. Lina Tang. By studying artificial intelligence and remote sensing technology, I hope I can solve urban ecological problems and contribute to human society.
+I'm a master student majored in Ecology at UCAS (University of Chinese Academy of Sciences) and IUE (Institute of Urban Environment, Chinese Academy of Sciences), where I study and work on urban ecology, deep learning, remote sensing, etc. I am supervised by Profs, Quanyi Qiu and Lina Tang. By studying artificial intelligence and remote sensing technology, I hope I can solve urban ecological problems and contribute to human society.
 
 
 

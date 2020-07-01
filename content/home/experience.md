@@ -55,7 +55,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Undergraduate"
-  company = "Huaqiao University"
+  company = "College of Engineering, Huaqiao University"
   company_url = ""
   location = "Xiamen, China"
   date_start = "2014-09-22"

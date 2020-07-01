@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   location = "Xiamen, China"
   date_start = "2018-03-01"
   date_end = "2018-06-30"
-  description = """I was supervised by Prof. Cheng Wang, learned about foundations of deep learning and point cloud and finished bachelor thesis."""
+  description = """I was supervised by Prof. Cheng Wang, learned about the technological principles of deep learning and point cloud and finished bachelor thesis."""
 
 [[experience]]
   title = "Undergraduate"

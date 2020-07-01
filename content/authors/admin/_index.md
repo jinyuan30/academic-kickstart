@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a master student majored in Ecology at UCAS (University of Chinese Academy of Sciences) and IUE (Institute of Urban Environment, Chinese Academy of Sciences), where I study and work on urban ecology, deep learning, remote sensing, etc. I am supervised by Profs, Quanyi Qiu and Lina Tang. By studying artificial intelligence and remote sensing technology, I hope I can solve urban ecological problems and contribute to humanity.
+I'm a master student majored in Ecology at UCAS (University of Chinese Academy of Sciences) and IUE (Institute of Urban Environment, Chinese Academy of Sciences), where I study and explore urban ecology, deep learning, remote sensing, etc. I am supervised by Profs. Quanyi Qiu and Lina Tang. By studying artificial intelligence and remote sensing technology, I hope I can solve urban ecological problems and contribute to humanity.
 
 
 

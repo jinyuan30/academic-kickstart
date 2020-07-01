@@ -47,4 +47,6 @@ subtitle = ""
 +++
 
 * Merit Student in 2019-2020 semester !
+* Grade Scholarship of University of Chinese Academy of Sciences, 2020-021.
+* Academic Scholarship of University of Chinese Academy of Sciences, 2020-2021.
 

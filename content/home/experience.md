@@ -27,6 +27,15 @@ date_format = "Jan 2006"
   description = """Last two years of master's degree. Conducting research, publishing papers and finishing master thesis."""
 
 [[experience]]
+  title = "Internship"
+  company = "China Academy of Urban Planning & Design"
+  company_url = ""
+  location = "Beijing, China"
+  date_start = "2019-03-01"
+  date_end = "2019-06-01"
+  description = """Analyzing and processing RS&GIS data, developing RS algorithm"""
+
+[[experience]]
   title = "Master Student"
   company = "University of Chinese Academy of Sciences"
   company_url = ""

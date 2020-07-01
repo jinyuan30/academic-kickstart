@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2019-03-01"
   date_end = "2019-06-01"
-  description = """Analyzing and processing RS&GIS data, developing RS algorithm"""
+  description = """Analyzing and processing RS&GIS data, developing RS algorithm."""
 
 [[experience]]
   title = "Master Student"

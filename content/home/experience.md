@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -34,6 +34,15 @@ date_format = "Jan 2006"
   date_start = "2018-09-01"
   date_end = "2019-07-01"
   description = """First year of master's degree. Attending classes and taking credits."""
+
+[[experience]]
+  title = "Bachelor Thesis"
+  company = "SCSC(Fujian Key Laboratory of Sensing and Computing for Smart City), Xiamen University"
+  company_url = ""
+  location = "Xiamen, China"
+  date_start = "2018-03-01"
+  date_end = "2018-06-30"
+  description = """I was supervised by Prof. Cheng Wang, learned about foundations of deep learning and point cloud and finished bachelor thesis."""
 
 [[experience]]
   title = "Undergraduate"

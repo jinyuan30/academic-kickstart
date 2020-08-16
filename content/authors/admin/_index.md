@@ -56,13 +56,13 @@ social:
   icon_pack: fab
   link: https://github.com/jinyuan30
 - icon: researchgate
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.researchgate.net/profile/Jinyuan_Shao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

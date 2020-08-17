@@ -56,8 +56,14 @@ social:
   icon_pack: fab
   link: https://github.com/jinyuan30
 - icon: researchgate
-  icon_pack: fab
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Jinyuan_Shao
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-0441-9565
+- icon: envelope
+  icon_pack: fas
+  link: jyshao@iue.ac.cn
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv

@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "What am I doing now?"
 subtitle = ""
@@ -44,6 +44,12 @@ subtitle = ""
  css_class = ""
 +++
 
-# 写论文
+# Conducting Research
 
-# 参加比赛
+Urban green land plays an import role in urban ecosystem, it is part of the urban landscape and can purify the air, prevent soil erosion, and improve the urban climate. Therefore, it is extremely important to accurately and timely recognize and monitor urban green land. Fortunately, as the rapid development of space technology, we can get cheap and Very High Resolution(VRH) satellite imagery that is a good data source to get information of the city. 
+
+We plan to develop a deep learning-based algorithm that finely classify urban green land-use via remote sensing imagery. Deep learning is the most effective method in computer vision and remote sensing. Through massive data input and clever network structure design, deep learning models can obtain amazing remote sensing classification effects. In order for this algorithm to be effective for most cities in the world, we plan to use various urban image training algorithms. 
+
+# Attending Competition
+
+I attended an AI competition with three graduate students. This AI competition contains two tracks: Change Detection and Land-use Classification of remote sensing. I will report the result after we finish this competition.

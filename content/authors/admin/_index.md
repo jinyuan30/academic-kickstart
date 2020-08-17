@@ -61,9 +61,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-0441-9565
-- icon: envelope
-  icon_pack: fas
-  link: jyshao@iue.ac.cn
+#- icon: envelope
+#  icon_pack: fas
+#  link: jyshao@iue.ac.cn
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -84,4 +84,4 @@ I'm a master student majored in Ecology at UCAS (University of Chinese Academy o
 
 
 
-Contact me: jyshao at iue dot ac dot cn
+Contact me: jyshao@iue.ac.cn

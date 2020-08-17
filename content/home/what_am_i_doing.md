@@ -25,9 +25,6 @@ subtitle = ""
   # color = "navy"
 
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
-
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -50,5 +47,6 @@ subtitle = ""
  css_class = ""
 +++
 
-* 写论文
-* 参加比赛
+# 写论文
+
+# 参加比赛

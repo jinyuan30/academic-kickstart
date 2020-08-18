@@ -48,7 +48,7 @@ subtitle = ""
 
 Urban green land plays an import role in urban ecosystem, it is part of the urban landscape and can purify the air, prevent soil erosion, and improve the urban climate. Therefore, it is extremely important to accurately and timely recognize and monitor urban green land. Fortunately, as the rapid development of space technology, we can get cheap and Very High Resolution(VRH) satellite imagery that is a good data source to get information of the city. 
 
-We plan to develop a deep learning-based algorithm that finely classify urban green land-use via remote sensing imagery. Deep learning is the most effective method in computer vision and remote sensing. Through massive data input and clever network structure design, deep learning models can obtain amazing remote sensing classification effects. In order for this algorithm to be effective for most cities in the world, we plan to use various urban image training algorithms. 
+We plan to develop a deep learning-based algorithm that finely classify urban green land-use via remote sensing imagery. Deep learning is the most effective method in computer vision and remote sensing. Through massive data input and clever network structure design, deep learning models can obtain amazing remote sensing classification results. In order to improve the generalization of this algorithm, we will use various urban images to train our deep neural network. 
 
 # Attending Competition
 

@@ -84,4 +84,8 @@ I'm a master student majored in Ecology at UCAS (University of Chinese Academy o
 
 
 
-Contact me: shaojinyuan18@mails.ucas.ac.cn, jyshao@iue.ac.cn
+Contact me: 
+
+shaojinyuan18@mails.ucas.ac.cn;
+
+jyshao@iue.ac.cn

@@ -76,3 +76,5 @@ subtitle = ""
 +++
 
 * Bachelor Thesis: Extracting trees from urban roads via point cloud using pointnet.
+* Master Thesis: Large-scale classification of urban green spaces through remote sensing.
+

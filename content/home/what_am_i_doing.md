@@ -52,4 +52,4 @@ We plan to develop a deep learning-based algorithm that finely classify urban gr
 
 # Attending Competition
 
-I attended an AI competition with three graduate students. This AI competition contains two tracks: Change Detection and Land-use Classification of remote sensing. I will report the result after we finish this competition.
+I attended an AI competition with three graduate students. This AI competition contains two tracks: Change Detection and Scene Classification of remote sensing. I will report the result after we finish this competition.

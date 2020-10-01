@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jinyuan Shao
+title: Jinyuan Shao(邵金圆)
 
 # Username (this should match the folder name)
 authors:

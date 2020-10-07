@@ -80,3 +80,6 @@ subtitle = ""
 * Qiang Zhou, Yuanmao Zheng, **Jinyuan Shao**, Yinglun Lin, and Haowei Wang. "An Improved Method of Determining Human Population Distribution Based on Luojia 1-01 Nighttime Light Imagery and Road Network Data—A Case Study of the City of Shenzhen". **Sensors**, 2020. (JCR Q2, IF: 3.275)
 
 **In preparation**
+
+* Peng Sun\*, **Jinyuan Shao**\*, Quanyi Qiu, Lina Tang, Hao Shen. "SIP: Species information prediction framework for forest ecosystem". (In review) (\* equal contribution)
+* Peng Sun, **Jinyuan Shao**, Hao Shen. "Do species with similar neighbor have similar plant attributes in forest communites?". 

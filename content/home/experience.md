@@ -18,13 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Master Student"
-  company = "Institute of Urban Environment, Chinese Academy of Sciences"
+  title = "Master's Student"
+  company = "Institute of Urban Environment, Chinese Academy of Sciences&University of Chinese Academy of Sciences"
   company_url = ""
-  location = "Xiamen, China"
-  date_start = "2019-07-31"
+  location = "Xiamen, China&Beijing, China"
+  date_start = "2018-09-01"
   date_end = ""
-  description = """Last two years of master's degree. Conducting research, publishing papers and finishing master thesis."""
+  description = """Urban ecology with computer vision and remote sensing."""
+
+[[experience]]
+  title = "Internship"
+  company = "Zhongke Chengxin Satellite Technology Co., Ltd"
+  company_url = ""
+  location = "Shanghai, China"
+  date_start = "2019-09-01"
+  date_end = "2019-12-31"
+  description = """Object Detection in Satellite Images."""
 
 [[experience]]
   title = "Internship"
@@ -33,16 +42,7 @@ date_format = "Jan 2006"
   location = "Beijing, China"
   date_start = "2019-03-01"
   date_end = "2019-06-01"
-  description = """Analyzing and processing RS&GIS data, developing RS algorithm."""
-
-[[experience]]
-  title = "Master Student"
-  company = "University of Chinese Academy of Sciences"
-  company_url = ""
-  location = "Beijing, China"
-  date_start = "2018-09-01"
-  date_end = "2019-07-01"
-  description = """First year of master's degree. Attending classes and taking credits."""
+  description = """Urban Planning with Artificial Intelligence."""
 
 [[experience]]
   title = "Bachelor Thesis"
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   location = "Xiamen, China"
   date_start = "2018-03-01"
   date_end = "2018-06-30"
-  description = """I was supervised by Prof. Cheng Wang, learned about the technological principles of deep learning and point cloud and finished bachelor thesis."""
+  description = """Supervised by Prof. Cheng Wang, learned about the technological principles of deep learning and point cloud and finished bachelor thesis."""
 
 [[experience]]
   title = "Undergraduate"

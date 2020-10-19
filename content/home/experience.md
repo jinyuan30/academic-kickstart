@@ -19,11 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Master's Student"
-  company = "Institute of Urban Environment, Chinese Academy of Sciences&University of Chinese Academy of Sciences"
+  company = "Chinese Academy of Sciences"
   company_url = ""
-  location = "Xiamen, China&Beijing, China"
+  location = "Xiamen&Beijing, China"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2021-07-01"
   description = """Urban ecology with computer vision and remote sensing."""
 
 [[experience]]
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Bachelor Thesis"
-  company = "SCSC(Fujian Key Laboratory of Sensing and Computing for Smart City), Xiamen University"
+  company = "Sensing and Computing for Smart City Lab, Xiamen University"
   company_url = ""
   location = "Xiamen, China"
   date_start = "2018-03-01"

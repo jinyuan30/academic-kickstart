@@ -46,7 +46,8 @@ subtitle = ""
  css_class = ""
 +++
 
-* Merit Student in 2019-2020 semester !
-* Grade Scholarship of University of Chinese Academy of Sciences, 2020-2021.
-* Academic Scholarship of University of Chinese Academy of Sciences, 2020-2021.
+* National Scholarship for Postgraduates. (Top 0.2%)
+* Merit Student in 2019-2020 semester. (Top 5%)
+* Grade Scholarship of University of Chinese Academy of Sciences, 2020-2021. (Top 10%)
+* Academic Scholarship of University of Chinese Academy of Sciences, 2020-2021. (Top 10%)
 

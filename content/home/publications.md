@@ -81,5 +81,6 @@ subtitle = ""
 
 **In preparation**
 
-* Peng Sun\*, **Jinyuan Shao**\*, Quanyi Qiu, Lina Tang, Hao Shen. "SIP: Species information prediction framework for forest ecosystem". (In review) (\* equal contribution)
-* Peng Sun, **Jinyuan Shao**, Hao Shen. "Do species with similar neighbor have similar plant attributes in forest communites?". 
+* Peng Sun\*, **Jinyuan Shao**\*, Quanyi Qiu, Lina Tang, Hao Shen. "SIP: Species information prediction framework for forest ecosystem". (Under review) (\* equal contribution)
+* Peng Sun, **Jinyuan Shao**, Hao Shen. "Do species with similar neighbor have similar plant attributes in forest communites?". (Under review)
+

@@ -46,4 +46,4 @@ subtitle = ""
  css_class = ""
 +++
 
-* 10/2020: National scholarship for Postgraduates. (Top 0.2%)
+* 10/2020: China National Scholarship. (Top 0.2%)

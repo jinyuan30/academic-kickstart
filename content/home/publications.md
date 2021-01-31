@@ -74,6 +74,7 @@ subtitle = ""
 
 #### **Published**
 
+* Sheng Fang, Kaiyu Li, **Jinyuan Shao**, and Zhe Li. "SNUNet-CD: A Densely Connected Siamese Network for Change Detection of VHR Images". IEEE Geoscience and Remote Sensing Letters, 2021. (JCR Q1, IF: 3.833)
 * **Jinyuan Shao**, Lina Tang, Ming Liu, Guofan Shao, Lang Sun, and Quanyi Qiu. "BDD-Net: A General Protocol for Mapping Buildings Damaged by a Wide Range of Disasters Based on Satellite Imagery". **Remote Sensing**, 2020. (JCR Q2, IF: 4.509)
 * **Jinyuan Shao**, Quanyi Qiu, Qian Yao , and Lina Tang. "Optimal visual perception in land-use planning and design based on landsenses ecology". **International Journal of Sustainable Development \& World Ecology**, 2020. (JCR Q2, IF: 2.772)
 * Lang Sun, Lina Tang, Guofan Shao, Quanyi Qiu, Ting Lan, and **Jinyuan Shao**. "A Machine Learning-Based Classification System for Urban Built-Up Areas Using Multiple Classifiers and Data Sources". **Remote Sensing**, 2019. (JCR Q2, IF: 4.509)

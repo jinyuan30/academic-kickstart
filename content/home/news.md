@@ -46,5 +46,5 @@ subtitle = ""
  css_class = ""
 +++
 
-* Our paper "SNUNet-CD: A Densely Connected Siamese Network for Change Detection of VHR Images" is accepted to IEEE Geoscience and Remote Sensing Letters!
+* 01/2021: Our paper "SNUNet-CD: A Densely Connected Siamese Network for Change Detection of VHR Images" is accepted to IEEE Geoscience and Remote Sensing Letters!
 * 10/2020: National Scholarship for Postgraduates. (Top 0.2%)
